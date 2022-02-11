@@ -9,7 +9,7 @@
     ✨ I love to learn Java new features.
 <!-- <td >
 # this is my daily.dev card, you can edit this accordingly
-    <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+    <img src="https://www.istockphoto.com/photo/java-programming-concept-virtual-machine-on-server-room-background-gm1131109259-299384111?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=http%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fjava+programming+language%2F&utm_term=java+programming+language" width="300" alt="Mr. Ånand's Dev Card"/></a>
   </td> -->
 
 </tr>
