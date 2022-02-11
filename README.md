@@ -1,13 +1,11 @@
 ### Hi, this is me Habib 👋
 
 <table>
-<tr>
-  <td>
+<tr> 
     <td>🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.</td>
     <td>🌱 I am currently learning Java and Java Web Developing.</td>
     <td>🎯 My Goal is to Contribute to Java Web Development.</td>
     <td>✨ I love to learn Java new features.</td>
-  </td>
 </tr>
 </table>
 
