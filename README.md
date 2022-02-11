@@ -3,18 +3,16 @@
 <table>
 <tr>
   <td>
-    <tr>🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.</tr>
-    <tr>🌱 I am currently learning Java and Java Web Developing.</tr>
-    <tr>🎯 My Goal is to Contribute to Java Web Development.</tr>
-    <tr>✨ I love to learn Java new features.</tr>
-<!-- <td >
-# this is my daily.dev card, you can edit this accordingly
-    <img src="https://pixabay.com/illustrations/java-software-software-development-2327538/" width="300" alt="Mr. Ånand's Dev Card"/></a>
-  </td> -->
-
+    <td>🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.</td>
+    <td>🌱 I am currently learning Java and Java Web Developing.</td>
+    <td>🎯 My Goal is to Contribute to Java Web Development.</td>
+    <td>✨ I love to learn Java new features.</td>
+  </td>
 </tr>
 </table>
+
 ### Connect With Me
+
 <table>
   <td>
      <a href="https://www.facebook.com/roaring.habib/"></a>  <img src="pic_trulli.jpg" alt="Italian Trulli">
