@@ -4,18 +4,18 @@
   <tr>
     <td valign="center">
       
-🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.
 
-🌱 I am currently learning **Java** and also interested in **Web Development**.
+🌱 I am currently learning Java and also Java Web Developing.
 
-🎯 My Goal is to Contribute to as many **open source project** as possible.
+🎯 My Goal is to become a Java Web Developer.
 
-✨ I love to create different types of **contents**.
+✨ I love to learn Java new features.
 
       
-<td >
-<!--       <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a> -->
-    </td>
+<!-- <td >
+      <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+    </td> -->
     
   </tr>
   </table>
@@ -54,4 +54,3 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Habib-qazwsx&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Habib-qazwsx" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Habib-qazwsx&theme=highcontrast&hide_border=true" alt="Habib-qazwsx" />
 </p>
-![<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png">](google.com)
