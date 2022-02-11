@@ -1,6 +1,5 @@
 ### Hi, this is me Habib 👋
 
-# replace contents according to you.
 <table>
 <tr>
   <td valign="center">
@@ -17,7 +16,7 @@
 </table>
 
 # replace username with your own or change theme
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#your-username&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#Habib-qazwsx&theme=dracula&hide_border=true)
 
 # replace username with your own or change theme
 ## Stats📈
