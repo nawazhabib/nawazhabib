@@ -3,10 +3,10 @@
 <table>
 <tr>
   <td>
-    🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.
-    🌱 I am currently learning Java and Java Web Developing.
-    🎯 My Goal is to Contribute to Java Web Development.
-    ✨ I love to learn Java new features.
+    <tr>🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.</tr>
+    <tr>🌱 I am currently learning Java and Java Web Developing.</tr>
+    <tr>🎯 My Goal is to Contribute to Java Web Development.</tr>
+    <tr>✨ I love to learn Java new features.</tr>
 <!-- <td >
 # this is my daily.dev card, you can edit this accordingly
     <img src="https://pixabay.com/illustrations/java-software-software-development-2327538/" width="300" alt="Mr. Ånand's Dev Card"/></a>
