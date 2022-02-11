@@ -25,4 +25,4 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Habib-qazwsx&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Habib-qazwsx" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Habib-qazwsx&theme=highcontrast&hide_border=true" alt="Habib-qazwsx" />
 </p>
-['limk']('https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png')
+![This is an image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png)
