@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-  <td valign="center">
+  <td>
     🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.
     🌱 I am currently learning Java and Java Web Developing.
     🎯 My Goal is to Contribute to Java Web Development.
