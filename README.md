@@ -4,7 +4,7 @@
 <tr>
   <td valign="center">
     🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.
-    🌱 I am currently learning Java and learning Java Web Developing.
+    🌱 I am currently learning Java and Java Web Developing.
     🎯 My Goal is to Contribute to Java Web Development.
     ✨ I love to learn Java new features.
 <!-- <td >
