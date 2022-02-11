@@ -24,3 +24,21 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Habib-qazwsx&theme=highcontrast&hide_border=true" alt="Habib-qazwsx" />
 </p>
 
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
