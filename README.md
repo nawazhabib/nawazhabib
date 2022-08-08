@@ -46,11 +46,11 @@
 
 <!-- <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/35/000000/figma--v2.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Habib-qazwsx&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nawazhabib&theme=dracula&hide_border=true)
 
 ## Stats📈
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Habib-qazwsx&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Habib-qazwsx" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Habib-qazwsx&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Habib-qazwsx" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Habib-qazwsx&theme=highcontrast&hide_border=true" alt="Habib-qazwsx" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawazhabib&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="nawazhabib" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nawazhabib&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="nawazhabib" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nawazhabib&theme=highcontrast&hide_border=true" alt="nawazhabib" />
 </p>
