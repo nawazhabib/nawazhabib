@@ -4,11 +4,9 @@
   <tr>
     <td valign="center">
       
-🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.
+🌱 I am Junior Software Engineer at Apex Holding Limited.
 
-🌱 I am currently learning Java and also Java Web Developing.
-
-🎯 My Goal is to become a Java Web Developer.
+🎯 My Goal is to become a Java Architect.
 
 ✨ I love to learn Java new features.
 
