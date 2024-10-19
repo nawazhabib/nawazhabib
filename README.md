@@ -4,7 +4,7 @@
   <tr>
     <td valign="center">
       
-🌱 I am Junior Software Engineer at Apex Holding Limited.
+🌱 I am Software Engineer at Apex Holding Limited.
 
 🎯 My Goal is to become a Java Architect.
 
