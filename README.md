@@ -8,7 +8,7 @@
 
 🎯 Goal is to become a Java Architect.
 
-✨ Love to learn and coding.
+✨ Love to learning and coding.
 
       
 <!-- <td >
