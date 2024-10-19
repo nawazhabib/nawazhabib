@@ -4,11 +4,11 @@
   <tr>
     <td valign="center">
       
-🌱 I am Software Engineer at Apex Holding Limited.
+🌱 Software Engineer at Apex Holding Limited.
 
-🎯 My Goal is to become a Java Architect.
+🎯 Goal is to become a Java Architect.
 
-✨ I love to learn Java new features.
+✨ Love to learn and coding.
 
       
 <!-- <td >
