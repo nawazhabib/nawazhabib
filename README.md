@@ -4,11 +4,10 @@
   <tr>
     <td valign="center">
       
-🌱 Software Engineer at Apex Holding Limited.
+🌱 Software Engineer at Apex Holdings Limited.
 
-🎯 Goal is to become a Java Architect.
+🎯 My goal is to pursue a career as a Solutions Architect.
 
-✨ Love to learning and coding.
 
       
 <!-- <td >
